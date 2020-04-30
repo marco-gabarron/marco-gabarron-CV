@@ -73,12 +73,6 @@ text-align: left;
   float: right;
 }
 
-.footer-page{
-  color: #EAF6F6;
-  font-size: 0.75rem;
-  padding: 20px 0;
-}
-
 .project-img1{
   margin-right: 20px;
   width: 30%;
@@ -86,6 +80,11 @@ text-align: left;
   border-radius: 15%;
 }
 
+.footer-page{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
 .contact-message{
   width: 40%;
   margin: 40px auto 60px;
